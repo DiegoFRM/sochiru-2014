@@ -14,7 +14,7 @@ const objectsButtons = [
       name: "Travel meets fashion",
       hasImg: true,
       img: img1,
-      video:"https://www.youtube.com/embed/brfJtQ63pXQ?si=pT4S3itqhyN6wp2r"
+      video:"https://www.youtube.com/embed/1gT1DKnZCc8?si=vNZrbBSWLYm_CkfK"
     },
     {
       name: "Velocidad y riesgo",
